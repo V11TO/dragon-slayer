@@ -23,21 +23,21 @@ const perguntas = [
         enunciado: "Em meio às colinas, você encontra Telmere em ruínas — homens queimados, crianças chorando. O dragão passou por ali. Um grupo de sobreviventes te suplica por ajuda.",
         alternativas: [
             "Proteger os sobreviventes e levá-los a um abrigo.",
-            "Ignorar os pedidos e seguir o rastro quente do dragão."
+            "Ignorar os pedidos e seguir o rastro quente do dragão.",
         ]
     },
     {
         enunciado: "Você alcança a base da Montanha Escaldante. A trilha está coberta por cinzas e rochas instáveis. Ruge o trovão — ou seria o dragão?",
         alternativas: [
             "Esperar a neblina baixar e recuperar energia.",
-            "Subir durante a tormenta, aproveitando que o dragão pode estar distraído."
+            "Subir durante a tormenta, aproveitando que o dragão pode estar distraído.",
         ]
     },
     {
         enunciado: "Você entra em uma câmara colossal esculpida por fogo e lava. Vharzagul dorme sobre uma pilha de ossos e ouro antigo. Ele está vulnerável… mas há runas seladoras gravadas em pilares ao redor.",
         alternativas: [
            "Usar as runas e magia para selar o dragão eternamente.",
-            "Despertar a fera e enfrentá-la em um combate direto e mortal."
+            "Despertar a fera e enfrentá-la em um combate direto e mortal.",
         ]
     },
 ];
