@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url(<img src="https://static.vecteezy.com/ti/fotos-gratis/p1/10552572-magic-forest-and-mountains-backgrounds-game-website-fantasy-world-foto.jpeg" alt="floresta mágica e montanhas fundos jogo site mundo de fantasia 10552572  Foto de stock no Vecteezy"/>);
+    background-image: url(10552572-magic-forest-and-mountains-backgrounds-game-website-fantasy-world-foto.jpeg);
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
